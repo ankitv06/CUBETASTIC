@@ -4,6 +4,8 @@
 
 ⚠️ *Best experienced on desktop with keyboard controls (A / D). Touch support not available yet.*
 
+## Working Demo: [Cubetastic](https://ankitvashisth06.itch.io/cubetastic)
+
 ## 🎮 Core Gameplay Features
 
 ### 1. Level-Based Progression
